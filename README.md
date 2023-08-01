@@ -10,6 +10,7 @@
 * [Contributing](#contributing)
 * [Trademarks](#trademarks)
 * [Introduction Repeated](#introduction)
+* [Introduction Repeated Repeated](#introduction)
 
 # Introduction
 
