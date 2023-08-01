@@ -9,6 +9,7 @@
 * [How It Works](#how-it-works)
 * [Contributing](#contributing)
 * [Trademarks](#trademarks)
+* [Introduction Repeated](#introduction)
 
 # Introduction
 
